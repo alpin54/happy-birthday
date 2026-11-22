@@ -20,7 +20,7 @@ const script = Great_Vibes({
 });
 
 export const metadata: Metadata = {
-	title: "Happy Birthday Raya Natasya Maratussholihah",
+	title: "Happy Birthday Sayangku❤️🎂",
 	description: "A Little Universe Made Just For You",
 	icons: {
 		icon: [
